@@ -1,0 +1,14 @@
+#wc{
+    font-family: cursive;
+    font-size: 30px;
+    color: cadetblue;
+}
+body{
+    background-color: mediumaquamarine;
+}
+#typeusername{
+    width: 50%;
+}
+#typepassword{
+    width: 50%;
+}
